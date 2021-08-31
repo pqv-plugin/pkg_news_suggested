@@ -1,2 +1,2 @@
-# pkg_news_suggested
+# pkg_blog_news_suggested
 Componente de notícias sugeridas
